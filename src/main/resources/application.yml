@@ -1,0 +1,3 @@
+security:
+  scheme:
+    name: Keycloak
